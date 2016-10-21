@@ -6,4 +6,4 @@ Visual Studio Team Service URL: https://ediwang.visualstudio.com/GDSHackathon-TB
 http://gdfood.azurewebsites.net/
 
 ## Admin URL
-http://wywgong.cloudapp.net/Home
+http://wywgong.cloudapp.net/Home/Login#?namespace=GdFoodModel
